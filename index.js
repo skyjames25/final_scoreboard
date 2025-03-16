@@ -29,3 +29,6 @@ function resetButton() {
     homeScore.textContent = 0
     guestScore.textContent = 0
 }
+
+
+console.log(10)
